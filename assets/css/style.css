@@ -964,6 +964,10 @@ label,
     border-color: var(--grey-color);
 }
 
+.shipping .form-control-file {
+    background-color: transparent !important;
+}
+
 .shipping .btn {
     margin-top: 10px;
     font-size: 13px;
